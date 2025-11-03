@@ -1,0 +1,6 @@
+(A) Fix map indicators they are moving and not fixed in different screen sizes not Responsive ==> DONE
+                                          ======
+
+(B) Finish lower footer part have not started yet ==> DONE
+                                                     =====
+(C) Finish Responsive Navbar 
